@@ -116,20 +116,20 @@ Cấu trúc dữ liệu gửi qua MQTT là dạng json với 2 data như sau:
  | Đèn báo chiều (blynk) |  | V37 |  |  | 
 
 ## Ví dụ đọc dữ liệu cho hassio sẽ được cấu hình ở file .yaml như sau: (với ABC là topic được cài đặt)
-sensor:
-  - platform: mqtt
-    name: "01.Điện Áp"
-    state_topic: "ABC/data1"
-    value_template: "{{ value_json.V }}"
-    unit_of_measurement: "V"
-    icon: mdi:flash-circle
+	sensor:
+	  - platform: mqtt
+	    name: "01.Điện Áp"
+	    state_topic: "ABC/data1"
+	    value_template: "{{ value_json.V }}"
+	    unit_of_measurement: "V"
+	    icon: mdi:flash-circle
 
 # IV. NÂNG CẤP CHƯƠNG TRÌNH (UPDATE FIRMWARE)
-## Bước 1:  Vào “SETUP” Chọn “UPDATE”
+### Bước 1:  Vào “SETUP” Chọn “UPDATE”
  
-## Bước 2: Tại trang web update rồi nhập mật khẩu và tài khoản là “admin”
+### Bước 2: Tại trang web update rồi nhập mật khẩu và tài khoản là “admin”
 
-## Bước 3: Chọn tên ở mục “Firmware” rồi ấn update và đợi báo update thành công!
+### Bước 3: Chọn tên ở mục “Firmware” rồi ấn update và đợi báo update thành công!
             
 
 
