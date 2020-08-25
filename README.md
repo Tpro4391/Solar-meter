@@ -15,7 +15,7 @@ giao diện Web local có thể truy cập bằng IP hoặc địa chỉ: solar-
  | GND | GND | GND | GND | GND | 
  | VCC | VCC | VCC |  |  | 
 
-#I. LẮP ĐẶT
+# I. LẮP ĐẶT
 -	Chân CT1 đấu vào kẹp dòng được kèm theo. Kẹp dòng này được kẹp sau inverter của Solar (đầu ra của solar đấu nối vào lưới điện).
 -	Chân CT2 đấu vào kẹp dòng được kèm theo. Kẹp dòng này được kẹp vào đầu vào của phụ tải, sau đầu kết nối của solar (kẹp vào đường điện vào nhà mình tiêu thụ, sau phía đấu nối solar)
 -	Các chân cấp nguồn có thể cấp độc lập (phần solar đấu nối điện ra solar, phần tải tiêu thụ đấu nối vào tải liêu thụ) Hoặc cũng có thể đấu nối chung nhau và chung vào phần tải tiêu thụ.
@@ -25,7 +25,7 @@ giao diện Web local có thể truy cập bằng IP hoặc địa chỉ: solar-
 
 ***1.	Thiết bị này chỉ dùng với sơ đồ đấu nối lưới điện đầu nguồn (Inverter đấu nối phía đầu nguồn với tải như hình). Không sử dụng được với sơ đồ đầu nối cuối nguồn.
 2.	Kẹp dòng vào 1 trong 2 dây của nguồn điên, không được kẹp vào cả 2 dây của nguồn điện.***
-#II. THÔNG SỐ KỸ THUẬT
+# II. THÔNG SỐ KỸ THUẬT
 ## 1.1 Điện áp (U)
     1.1.1 Điện áp: 80~260V
     1.1.2 Độ phân giải: 0.1V
