@@ -7,7 +7,7 @@ giao diện Web local có thể truy cập bằng IP hoặc địa chỉ: solar-
  | ESP8266 | PZEM Solar | Pzem Tải | Nút reset | Led stt | 
  |-----------|-----------|-----------|-----------|-----------| 
  | D1 | TX |  |  |  | 
- | D2 | TX |  |  |  | 
+ | D2 | RX |  |  |  | 
  | D3 |  |  | X |  | 
  | D4 |  |  |  | X | 
  | TX |  | TX |  |  | 
