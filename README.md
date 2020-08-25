@@ -23,8 +23,8 @@ giao diện Web local có thể truy cập bằng IP hoặc địa chỉ: solar-
  
 ## QUAN TRỌNG:
 
-***1.	Thiết bị này chỉ dùng với sơ đồ đấu nối lưới điện đầu nguồn (Inverter đấu nối phía đầu nguồn với tải như hình). Không sử dụng được với sơ đồ đầu nối cuối nguồn.
-2.	Kẹp dòng vào 1 trong 2 dây của nguồn điên, không được kẹp vào cả 2 dây của nguồn điện.***
+***1.	Thiết bị này chỉ dùng với sơ đồ đấu nối lưới điện đầu nguồn (Inverter đấu nối phía đầu nguồn với tải như hình). Không sử dụng được với sơ đồ đầu nối cuối nguồn.***
+***2.	Kẹp dòng vào 1 trong 2 dây của nguồn điên, không được kẹp vào cả 2 dây của nguồn điện.***
 # II. THÔNG SỐ KỸ THUẬT
 ## 1.1 Điện áp (U)
     1.1.1 Điện áp: 80~260V
