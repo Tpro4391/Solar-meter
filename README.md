@@ -83,7 +83,7 @@ Chú ý: Ngoài ra các bạn có thể tự thiết lập giao diện blynk the
 ### Bước 2: Lấy mã Auth Blynk, từ giao diện của phần mềm:
        
 	Người dùng có thể copy auth token hoặc gửi auth token qua mail!
-	Bước 3: Dán mã Auth token đã lấy vào cài đặt thiết bị:
+### Bước 3: Dán mã Auth token đã lấy vào cài đặt thiết bị:
  
 ## 3.	Kết nối tới nền tảng, hệ sinh thái khác qua MQTT (hass io,..)
 Để gửi dữ liệu qua MQTT vào mục connect và chọn kết nối MQTT
