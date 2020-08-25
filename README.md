@@ -3,6 +3,18 @@
 <img src="https://github.com/Tpro4391/Solar-meter/blob/master/Home%20solar.jpg">
 giao diện Web local có thể truy cập bằng IP hoặc địa chỉ: solar-meter.local/ hoặc solar-meter/
 <img src="https://github.com/Tpro4391/Solar-meter/blob/master/hop-chuan.jpg">
+# SƠ ĐỒ KẾT NỐI
+ | ESP8266 | PZEM Solar | Pzem Tải | Nút reset | Led stt | 
+ |-----------|-----------|-----------|-----------|-----------| 
+ | D1 | TX |  |  |  | 
+ | D2 | TX |  |  |  | 
+ | D3 |  |  | X |  | 
+ | D4 |  |  |  | X | 
+ | TX |  | TX |  |  | 
+ | RX |  | RX |  |  | 
+ | GND | GND | GND | GND | GND | 
+ | VCC | VCC | VCC |  |  | 
+
 #I. LẮP ĐẶT
 -	Chân CT1 đấu vào kẹp dòng được kèm theo. Kẹp dòng này được kẹp sau inverter của Solar (đầu ra của solar đấu nối vào lưới điện).
 -	Chân CT2 đấu vào kẹp dòng được kèm theo. Kẹp dòng này được kẹp vào đầu vào của phụ tải, sau đầu kết nối của solar (kẹp vào đường điện vào nhà mình tiêu thụ, sau phía đấu nối solar)
