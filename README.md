@@ -49,8 +49,8 @@ giao diện Web local có thể truy cập bằng IP hoặc địa chỉ: solar-
 -	Vào mục “CONNECT”, chọn “Scan wifi” Sau đó chọn wifi cần kết nối. Nhập mật khẩu wifi cần kết nối và ấn “Save”.
 -	Ấn tiếp “Khởi động lại” để thực hiện khởi động lại thiết bị và kết nối tới wifi được cài đặt.
 -	Sau khi kết nối nếu Wifi “T-Meter_XXXX” không còn nữa thì thiết bị đã kết nối thành công. Lúc này người dùng truy cập cùng wifi với công tơ sau đó truy cập địa chỉ: “http://solar-meter.local/”  hoặc “http://solar-meter/” hoặc  địa chỉ IP trong mạng wifi mới để truy cập vào xem chỉ số của công tơ.
-Chú ý 1: Người dùng có thể truy cập địa chỉ: “http://solar-meter.local/” hoặc “http://solar-meter/”  bằng máy tính, laptop win 10 hoặc trên điện thoại sử dụng hệ điều hành IOS (Iphone).  Điện thoại Androi chỉ truy cập theo địa chỉ IP được do bị chặn DNS local.
-Chú ý 2: Truy cập bằng IP sẽ nhanh hơn so với truy cập bằng địa chỉ http://solar-meter.local/” . Có thể lấy địa chỉ IP bằng cách dùng điện thoại Iphone truy cập “http://solar-meter.local/” sau đó kéo xuống phần IP để lấy địa chỉ ip. Ngoài ra cũng có thể dùng phần mềm Scan IP.
+	Chú ý 1: Người dùng có thể truy cập địa chỉ: “http://solar-meter.local/” hoặc “http://solar-meter/”  bằng máy tính, laptop win 10 hoặc trên điện thoại sử dụng hệ điều 	hành IOS (Iphone).  Điện thoại Androi chỉ truy cập theo địa chỉ IP được do bị chặn DNS local.
+	Chú ý 2: Truy cập bằng IP sẽ nhanh hơn so với truy cập bằng địa chỉ http://solar-meter.local/” . Có thể lấy địa chỉ IP bằng cách dùng điện thoại Iphone truy cập “http://solar-meter.local/” sau đó kéo xuống phần IP để lấy địa chỉ ip. Ngoài ra cũng có thể dùng phần mềm Scan IP.
 ## 2.	Kết nối tới ứng dụng “Blynk”
 Blynk là ứng dụng IoT trên điện thoại di động, người dùng có thể tìm kiếm và cài đặt phần mềm trên cả Androi và IOS.
 ### Bước 1: Nhập giao điện xem chỉ số công tơ trên ứng dụng blynk:
@@ -75,6 +75,7 @@ Chú ý: Ngoài ra các bạn có thể tự thiết lập giao diện blynk the
  
 Cấu trúc dữ liệu gửi qua MQTT là dạng json với 2 data như sau:
  | Chỉ số | Đơn vị | Blynk virutal | MQTT Topic | MQTT Json | 
+ |------------------|---------|--------------|-------------|-------------| 
  | Trạng thái |  | V0 | "Topic"/data1 | stt | 
  | Điện áp solar | V | V1 | "Topic"/data1 | V1 | 
  | Dòng điện solar | A | V2 | "Topic"/data1 | A1 | 
