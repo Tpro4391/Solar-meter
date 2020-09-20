@@ -15,10 +15,10 @@
 
 #### Giao diện:
 
-<img width=25% height=25% src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/1.jpg" >
-<img width=25% height=25% src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/2.jpg" >
-<img width=25% height=25% src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/3.jpg" >
-<img width=25% height=25% src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/4.jpg" >
+<img width=25% height=25% src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/1.jpg" style="max-width:25%;">
+<img width=25% height=25% src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/2.jpg" style="max-width:25%;">
+<img width=25% height=25% src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/3.jpg" style="max-width:25%;">
+<img width=25% height=25% src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/4.jpg" style="max-width:25%;">
 
 ### Data map Blynk cho bản V4.0
 
