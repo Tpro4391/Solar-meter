@@ -11,14 +11,14 @@
 ### Mã QR code cho Blynk
 #### Chú ý cần tối thiểu 15.000 điểm Energy blynk để sử dụng giao điện này
 
-<img width="300" height="120" src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/QR-V4.0.png">
+<img src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/QR-V4.0.png">
 
 #### Giao diện:
 
-<img src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/1.jpg" >
-<img src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/2.jpg" >
-<img src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/3.jpg" >
-<img src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/4.jpg" >
+<img width=25% height=25% src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/1.jpg" >
+<img width=25% height=25% src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/2.jpg" >
+<img width=25% height=25% src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/3.jpg" >
+<img width=25% height=25% src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/4.jpg" >
 
 ### Data map Blynk cho bản V4.0
 
