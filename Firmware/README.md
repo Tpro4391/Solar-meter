@@ -11,7 +11,7 @@
 ### Mã QR code cho Blynk
 #### Chú ý cần tối thiểu 15.000 điểm Energy blynk để sử dụng giao điện này
 
-<img src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/QR-V4.0.png" width=30% height=30%>
+<img width="300" height="120" src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/QR-V4.0.png">
 
 #### Giao diện:
 
