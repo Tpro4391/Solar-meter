@@ -9,16 +9,19 @@
 	- Tính toán thời gian hoàn vốn còn lại dành cho dự án
 
 ### Mã QR code cho Blynk
-Chú ý cần tối thiểu 15.000 điểm Energy blynk để sử dụng giao điện này 
-<img style="max-width: 40%;" src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/QR-V4.0.png">
-Giao diện:
-<img style="max-width: 40%;" src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/1.jpg">
-<img style="max-width: 40%;" src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/2.jpg">
-<img style="max-width: 40%;" src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/3.jpg">
-<img style="max-width: 40%;" src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/4.jpg">
+#### Chú ý cần tối thiểu 15.000 điểm Energy blynk để sử dụng giao điện này
+
+<img src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/QR-V4.0.png" style="max-width:40%;">
+
+#### Giao diện:
+
+<img src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/1.jpg" style="max-width: 40%;">
+<img src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/2.jpg" style="max-width: 40%;">
+<img src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/3.jpg" style="max-width: 40%;">
+<img src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/4.jpg" style="max-width: 40%;">
 
 ### Data map Blynk cho bản V4.0
-Các bạn có thể
+
 <img src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/map-blynk-4.0.jpg">
 
 
