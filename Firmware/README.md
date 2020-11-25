@@ -24,5 +24,9 @@
 
 <img src="https://github.com/Tpro4391/Solar-meter/blob/master/Anh/map-blynk-4.0.jpg">
 
+## V4.1 update
+### Bổ xung thêm dữ liệu được gửi qua MQTT như data map sau:
+https://github.com/Tpro4391/Solar-meter/blob/master/Huong%20dan%20su%20dung/Data%20Map%20V4.1.pdf
+
 
 
