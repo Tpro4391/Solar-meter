@@ -28,5 +28,6 @@
 ### Bổ xung thêm dữ liệu được gửi qua MQTT như data map sau:
 https://github.com/Tpro4391/Solar-meter/blob/master/Huong%20dan%20su%20dung/Data%20Map%20V4.1.pdf
 
-
+## V5 Sử dụng PCB phiên bản V2. 
+đảo chân rx tx ở tải
 
