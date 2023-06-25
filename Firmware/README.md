@@ -30,4 +30,9 @@ https://github.com/Tpro4391/Solar-meter/blob/master/Huong%20dan%20su%20dung/Data
 
 ## V5 Sử dụng PCB phiên bản V2. 
 đảo chân rx tx ở tải
+Chú ý: Chỉ sử dụng V5 cho PCB phiên bản V2
+
+## V4.2 Update giá điện mới năm 2023
+V4.2 sử dụng cho phiên bản PCB V1, nối tiếp bản V4.1
+Update giá điện tăng 3% 
 
